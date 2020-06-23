@@ -330,17 +330,17 @@ header{
 
 /*partners*/
 .partners{
-  padding: 1.2rem;
+  padding: 1.2rem 0;
 }
 
 .partners-p{
-  font-size: 6em;
+  font-size: 6em 0;
   text-align: center;
-  padding: .5em;
+  padding: .5em 0;
 }
 
 .google{
-  padding: .5rem;
+  padding: .5rem 0;
 }
 
 .g{
